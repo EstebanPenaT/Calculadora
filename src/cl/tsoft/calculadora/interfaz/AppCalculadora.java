@@ -17,7 +17,9 @@ public class AppCalculadora implements ActionListener{
   int s;
   Sistema d;
   Conversion c;
+/*
 
+*/
   public AppCalculadora() {
       initComponents();
   }
